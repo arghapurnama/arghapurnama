@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arghapurnama
-- 👀 I’m interested in designer, system analyst, network security and many more!
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in UI designer, system analyst, network security and many more!
+- 💻 I’m currently learning python
+- 📨 I’m looking to collaborate on ...
 - 📫 How to reach me
 
 <!---
